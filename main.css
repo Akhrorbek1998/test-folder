@@ -2,3 +2,10 @@ body {
     background-color: black;
     color: white;
 }
+
+header {
+    background-color: dodgerblue;
+    color: indigo;
+    padding: 24px;
+    text-align: center;
+}
